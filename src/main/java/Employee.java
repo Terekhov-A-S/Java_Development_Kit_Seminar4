@@ -32,7 +32,7 @@ class Employee {
 
     @Override
     public String toString() {
-        return  "табельный номер = " + employeeId +
+        return "табельный номер = " + employeeId +
                 ", номер телефона = '" + phoneNumber + '\'' +
                 ", имя = '" + name + '\'' +
                 ", стаж = " + experience;
